@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<q:quakeml xmlns:q="http://quakeml.org/xmlns/quakeml/1.2" xmlns="http://quakeml.org/xmlns/bed/1.2">
+  <eventParameters publicID="smi:local/catalog/cfa2f324-ec68-48c4-a026-943d2349b082">
+    <creationInfo>
+      <author>JP</author>
+      <creationTime>2018-02-07T19:17:06.780667Z</creationTime>
+    </creationInfo>
+    <event publicID="smi:local/event/f55e54b9-d5aa-4b23-9116-5de95a7f8657">
+      <type>other event</type>
+      <typeCertainty>known</typeCertainty>
+      <description>
+        <text>a fake example event</text>
+      </description>
+      <creationInfo>
+        <author>JP</author>
+        <creationTime>2018-02-07T19:11:49.520680Z</creationTime>
+      </creationInfo>
+    </event>
+  </eventParameters>
+</q:quakeml>
