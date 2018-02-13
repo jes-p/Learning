@@ -1,0 +1,612 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<FDSNStationXML xmlns:GL_ns="GLNN" xmlns="http://www.fdsn.org/xml/station/1" schemaVersion="1.0">
+  <Source>J. Parker</Source>
+  <Module>ObsPy 1.1.0</Module>
+  <ModuleURI>https://www.obspy.org</ModuleURI>
+  <Created>2018-02-13T23:15:14.892280</Created>
+  <Network code="L0">
+    <Description>Glaser Lab Nano Network</Description>
+    <Station code="AE01">
+      <GL_ns:local_location>
+        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
+      </GL_ns:local_location>
+      <Latitude unit="DEGREES">37.874505</Latitude>
+      <Longitude unit="DEGREES">-122.257247</Longitude>
+      <Elevation unit="METERS">100.0</Elevation>
+      <Site>
+        <Name>BP3</Name>
+      </Site>
+      <CreationDate>2018-01-01T00:00:00</CreationDate>
+    </Station>
+    <Station code="AE02">
+      <GL_ns:local_location>
+        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
+      </GL_ns:local_location>
+      <Latitude unit="DEGREES">37.874505</Latitude>
+      <Longitude unit="DEGREES">-122.257247</Longitude>
+      <Elevation unit="METERS">100.0</Elevation>
+      <Site>
+        <Name>BP3</Name>
+      </Site>
+      <CreationDate>2018-01-01T00:00:00</CreationDate>
+    </Station>
+    <Station code="AE03">
+      <GL_ns:local_location>
+        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
+      </GL_ns:local_location>
+      <Latitude unit="DEGREES">37.874505</Latitude>
+      <Longitude unit="DEGREES">-122.257247</Longitude>
+      <Elevation unit="METERS">100.0</Elevation>
+      <Site>
+        <Name>BP3</Name>
+      </Site>
+      <CreationDate>2018-01-01T00:00:00</CreationDate>
+    </Station>
+    <Station code="AE04">
+      <GL_ns:local_location>
+        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
+      </GL_ns:local_location>
+      <Latitude unit="DEGREES">37.874505</Latitude>
+      <Longitude unit="DEGREES">-122.257247</Longitude>
+      <Elevation unit="METERS">100.0</Elevation>
+      <Site>
+        <Name>BP3</Name>
+      </Site>
+      <CreationDate>2018-01-01T00:00:00</CreationDate>
+    </Station>
+    <Station code="AE05">
+      <GL_ns:local_location>
+        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
+      </GL_ns:local_location>
+      <Latitude unit="DEGREES">37.874505</Latitude>
+      <Longitude unit="DEGREES">-122.257247</Longitude>
+      <Elevation unit="METERS">100.0</Elevation>
+      <Site>
+        <Name>BP3</Name>
+      </Site>
+      <CreationDate>2018-01-01T00:00:00</CreationDate>
+    </Station>
+    <Station code="AE06">
+      <GL_ns:local_location>
+        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
+      </GL_ns:local_location>
+      <Latitude unit="DEGREES">37.874505</Latitude>
+      <Longitude unit="DEGREES">-122.257247</Longitude>
+      <Elevation unit="METERS">100.0</Elevation>
+      <Site>
+        <Name>BP3</Name>
+      </Site>
+      <CreationDate>2018-01-01T00:00:00</CreationDate>
+    </Station>
+    <Station code="AE07">
+      <GL_ns:local_location>
+        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
+      </GL_ns:local_location>
+      <Latitude unit="DEGREES">37.874505</Latitude>
+      <Longitude unit="DEGREES">-122.257247</Longitude>
+      <Elevation unit="METERS">100.0</Elevation>
+      <Site>
+        <Name>BP3</Name>
+      </Site>
+      <CreationDate>2018-01-01T00:00:00</CreationDate>
+    </Station>
+    <Station code="AE08">
+      <GL_ns:local_location>
+        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
+      </GL_ns:local_location>
+      <Latitude unit="DEGREES">37.874505</Latitude>
+      <Longitude unit="DEGREES">-122.257247</Longitude>
+      <Elevation unit="METERS">100.0</Elevation>
+      <Site>
+        <Name>BP3</Name>
+      </Site>
+      <CreationDate>2018-01-01T00:00:00</CreationDate>
+    </Station>
+    <Station code="AE09">
+      <GL_ns:local_location>
+        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
+      </GL_ns:local_location>
+      <Latitude unit="DEGREES">37.874505</Latitude>
+      <Longitude unit="DEGREES">-122.257247</Longitude>
+      <Elevation unit="METERS">100.0</Elevation>
+      <Site>
+        <Name>BP3</Name>
+      </Site>
+      <CreationDate>2018-01-01T00:00:00</CreationDate>
+    </Station>
+    <Station code="AE10">
+      <GL_ns:local_location>
+        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
+      </GL_ns:local_location>
+      <Latitude unit="DEGREES">37.874505</Latitude>
+      <Longitude unit="DEGREES">-122.257247</Longitude>
+      <Elevation unit="METERS">100.0</Elevation>
+      <Site>
+        <Name>BP3</Name>
+      </Site>
+      <CreationDate>2018-01-01T00:00:00</CreationDate>
+    </Station>
+    <Station code="AE11">
+      <GL_ns:local_location>
+        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
+      </GL_ns:local_location>
+      <Latitude unit="DEGREES">37.874505</Latitude>
+      <Longitude unit="DEGREES">-122.257247</Longitude>
+      <Elevation unit="METERS">100.0</Elevation>
+      <Site>
+        <Name>BP3</Name>
+      </Site>
+      <CreationDate>2018-01-01T00:00:00</CreationDate>
+    </Station>
+    <Station code="AE12">
+      <GL_ns:local_location>
+        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
+      </GL_ns:local_location>
+      <Latitude unit="DEGREES">37.874505</Latitude>
+      <Longitude unit="DEGREES">-122.257247</Longitude>
+      <Elevation unit="METERS">100.0</Elevation>
+      <Site>
+        <Name>BP3</Name>
+      </Site>
+      <CreationDate>2018-01-01T00:00:00</CreationDate>
+    </Station>
+    <Station code="AE13">
+      <GL_ns:local_location>
+        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
+      </GL_ns:local_location>
+      <Latitude unit="DEGREES">37.874505</Latitude>
+      <Longitude unit="DEGREES">-122.257247</Longitude>
+      <Elevation unit="METERS">100.0</Elevation>
+      <Site>
+        <Name>BP3</Name>
+      </Site>
+      <CreationDate>2018-01-01T00:00:00</CreationDate>
+    </Station>
+    <Station code="AE14">
+      <GL_ns:local_location>
+        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
+      </GL_ns:local_location>
+      <Latitude unit="DEGREES">37.874505</Latitude>
+      <Longitude unit="DEGREES">-122.257247</Longitude>
+      <Elevation unit="METERS">100.0</Elevation>
+      <Site>
+        <Name>BP3</Name>
+      </Site>
+      <CreationDate>2018-01-01T00:00:00</CreationDate>
+    </Station>
+    <Station code="AE15">
+      <GL_ns:local_location>
+        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
+      </GL_ns:local_location>
+      <Latitude unit="DEGREES">37.874505</Latitude>
+      <Longitude unit="DEGREES">-122.257247</Longitude>
+      <Elevation unit="METERS">100.0</Elevation>
+      <Site>
+        <Name>BP3</Name>
+      </Site>
+      <CreationDate>2018-01-01T00:00:00</CreationDate>
+    </Station>
+    <Station code="AE16">
+      <GL_ns:local_location>
+        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
+      </GL_ns:local_location>
+      <Latitude unit="DEGREES">37.874505</Latitude>
+      <Longitude unit="DEGREES">-122.257247</Longitude>
+      <Elevation unit="METERS">100.0</Elevation>
+      <Site>
+        <Name>BP3</Name>
+      </Site>
+      <CreationDate>2018-01-01T00:00:00</CreationDate>
+    </Station>
+    <Station code="AE17">
+      <GL_ns:local_location>
+        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
+      </GL_ns:local_location>
+      <Latitude unit="DEGREES">37.874505</Latitude>
+      <Longitude unit="DEGREES">-122.257247</Longitude>
+      <Elevation unit="METERS">100.0</Elevation>
+      <Site>
+        <Name>BP3</Name>
+      </Site>
+      <CreationDate>2018-01-01T00:00:00</CreationDate>
+    </Station>
+    <Station code="AE18">
+      <GL_ns:local_location>
+        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
+      </GL_ns:local_location>
+      <Latitude unit="DEGREES">37.874505</Latitude>
+      <Longitude unit="DEGREES">-122.257247</Longitude>
+      <Elevation unit="METERS">100.0</Elevation>
+      <Site>
+        <Name>BP3</Name>
+      </Site>
+      <CreationDate>2018-01-01T00:00:00</CreationDate>
+    </Station>
+    <Station code="AE19">
+      <GL_ns:local_location>
+        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
+      </GL_ns:local_location>
+      <Latitude unit="DEGREES">37.874505</Latitude>
+      <Longitude unit="DEGREES">-122.257247</Longitude>
+      <Elevation unit="METERS">100.0</Elevation>
+      <Site>
+        <Name>BP3</Name>
+      </Site>
+      <CreationDate>2018-01-01T00:00:00</CreationDate>
+    </Station>
+    <Station code="AE20">
+      <GL_ns:local_location>
+        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
+      </GL_ns:local_location>
+      <Latitude unit="DEGREES">37.874505</Latitude>
+      <Longitude unit="DEGREES">-122.257247</Longitude>
+      <Elevation unit="METERS">100.0</Elevation>
+      <Site>
+        <Name>BP3</Name>
+      </Site>
+      <CreationDate>2018-01-01T00:00:00</CreationDate>
+    </Station>
+    <Station code="AE21">
+      <GL_ns:local_location>
+        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
+      </GL_ns:local_location>
+      <Latitude unit="DEGREES">37.874505</Latitude>
+      <Longitude unit="DEGREES">-122.257247</Longitude>
+      <Elevation unit="METERS">100.0</Elevation>
+      <Site>
+        <Name>BP3</Name>
+      </Site>
+      <CreationDate>2018-01-01T00:00:00</CreationDate>
+    </Station>
+    <Station code="AE22">
+      <GL_ns:local_location>
+        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
+      </GL_ns:local_location>
+      <Latitude unit="DEGREES">37.874505</Latitude>
+      <Longitude unit="DEGREES">-122.257247</Longitude>
+      <Elevation unit="METERS">100.0</Elevation>
+      <Site>
+        <Name>BP3</Name>
+      </Site>
+      <CreationDate>2018-01-01T00:00:00</CreationDate>
+    </Station>
+    <Station code="AE23">
+      <GL_ns:local_location>
+        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
+      </GL_ns:local_location>
+      <Latitude unit="DEGREES">37.874505</Latitude>
+      <Longitude unit="DEGREES">-122.257247</Longitude>
+      <Elevation unit="METERS">100.0</Elevation>
+      <Site>
+        <Name>BP3</Name>
+      </Site>
+      <CreationDate>2018-01-01T00:00:00</CreationDate>
+    </Station>
+    <Station code="AE24">
+      <GL_ns:local_location>
+        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
+      </GL_ns:local_location>
+      <Latitude unit="DEGREES">37.874505</Latitude>
+      <Longitude unit="DEGREES">-122.257247</Longitude>
+      <Elevation unit="METERS">100.0</Elevation>
+      <Site>
+        <Name>BP3</Name>
+      </Site>
+      <CreationDate>2018-01-01T00:00:00</CreationDate>
+    </Station>
+    <Station code="AE25">
+      <GL_ns:local_location>
+        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
+      </GL_ns:local_location>
+      <Latitude unit="DEGREES">37.874505</Latitude>
+      <Longitude unit="DEGREES">-122.257247</Longitude>
+      <Elevation unit="METERS">100.0</Elevation>
+      <Site>
+        <Name>BP3</Name>
+      </Site>
+      <CreationDate>2018-01-01T00:00:00</CreationDate>
+    </Station>
+    <Station code="AE26">
+      <GL_ns:local_location>
+        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
+      </GL_ns:local_location>
+      <Latitude unit="DEGREES">37.874505</Latitude>
+      <Longitude unit="DEGREES">-122.257247</Longitude>
+      <Elevation unit="METERS">100.0</Elevation>
+      <Site>
+        <Name>BP3</Name>
+      </Site>
+      <CreationDate>2018-01-01T00:00:00</CreationDate>
+    </Station>
+    <Station code="AE27">
+      <GL_ns:local_location>
+        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
+      </GL_ns:local_location>
+      <Latitude unit="DEGREES">37.874505</Latitude>
+      <Longitude unit="DEGREES">-122.257247</Longitude>
+      <Elevation unit="METERS">100.0</Elevation>
+      <Site>
+        <Name>BP3</Name>
+      </Site>
+      <CreationDate>2018-01-01T00:00:00</CreationDate>
+    </Station>
+    <Station code="AE28">
+      <GL_ns:local_location>
+        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
+      </GL_ns:local_location>
+      <Latitude unit="DEGREES">37.874505</Latitude>
+      <Longitude unit="DEGREES">-122.257247</Longitude>
+      <Elevation unit="METERS">100.0</Elevation>
+      <Site>
+        <Name>BP3</Name>
+      </Site>
+      <CreationDate>2018-01-01T00:00:00</CreationDate>
+    </Station>
+    <Station code="AE29">
+      <GL_ns:local_location>
+        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
+      </GL_ns:local_location>
+      <Latitude unit="DEGREES">37.874505</Latitude>
+      <Longitude unit="DEGREES">-122.257247</Longitude>
+      <Elevation unit="METERS">100.0</Elevation>
+      <Site>
+        <Name>BP3</Name>
+      </Site>
+      <CreationDate>2018-01-01T00:00:00</CreationDate>
+    </Station>
+    <Station code="AE30">
+      <GL_ns:local_location>
+        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
+      </GL_ns:local_location>
+      <Latitude unit="DEGREES">37.874505</Latitude>
+      <Longitude unit="DEGREES">-122.257247</Longitude>
+      <Elevation unit="METERS">100.0</Elevation>
+      <Site>
+        <Name>BP3</Name>
+      </Site>
+      <CreationDate>2018-01-01T00:00:00</CreationDate>
+    </Station>
+    <Station code="AE31">
+      <GL_ns:local_location>
+        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
+      </GL_ns:local_location>
+      <Latitude unit="DEGREES">37.874505</Latitude>
+      <Longitude unit="DEGREES">-122.257247</Longitude>
+      <Elevation unit="METERS">100.0</Elevation>
+      <Site>
+        <Name>BP3</Name>
+      </Site>
+      <CreationDate>2018-01-01T00:00:00</CreationDate>
+    </Station>
+    <Station code="AE32">
+      <GL_ns:local_location>
+        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
+      </GL_ns:local_location>
+      <Latitude unit="DEGREES">37.874505</Latitude>
+      <Longitude unit="DEGREES">-122.257247</Longitude>
+      <Elevation unit="METERS">100.0</Elevation>
+      <Site>
+        <Name>BP3</Name>
+      </Site>
+      <CreationDate>2018-01-01T00:00:00</CreationDate>
+    </Station>
+    <Station code="AE33">
+      <GL_ns:local_location>
+        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
+      </GL_ns:local_location>
+      <Latitude unit="DEGREES">37.874505</Latitude>
+      <Longitude unit="DEGREES">-122.257247</Longitude>
+      <Elevation unit="METERS">100.0</Elevation>
+      <Site>
+        <Name>BP3</Name>
+      </Site>
+      <CreationDate>2018-01-01T00:00:00</CreationDate>
+    </Station>
+    <Station code="AE34">
+      <GL_ns:local_location>
+        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
+      </GL_ns:local_location>
+      <Latitude unit="DEGREES">37.874505</Latitude>
+      <Longitude unit="DEGREES">-122.257247</Longitude>
+      <Elevation unit="METERS">100.0</Elevation>
+      <Site>
+        <Name>BP3</Name>
+      </Site>
+      <CreationDate>2018-01-01T00:00:00</CreationDate>
+    </Station>
+    <Station code="AE35">
+      <GL_ns:local_location>
+        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
+      </GL_ns:local_location>
+      <Latitude unit="DEGREES">37.874505</Latitude>
+      <Longitude unit="DEGREES">-122.257247</Longitude>
+      <Elevation unit="METERS">100.0</Elevation>
+      <Site>
+        <Name>BP3</Name>
+      </Site>
+      <CreationDate>2018-01-01T00:00:00</CreationDate>
+    </Station>
+    <Station code="AE36">
+      <GL_ns:local_location>
+        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
+      </GL_ns:local_location>
+      <Latitude unit="DEGREES">37.874505</Latitude>
+      <Longitude unit="DEGREES">-122.257247</Longitude>
+      <Elevation unit="METERS">100.0</Elevation>
+      <Site>
+        <Name>BP3</Name>
+      </Site>
+      <CreationDate>2018-01-01T00:00:00</CreationDate>
+    </Station>
+    <Station code="AE37">
+      <GL_ns:local_location>
+        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
+      </GL_ns:local_location>
+      <Latitude unit="DEGREES">37.874505</Latitude>
+      <Longitude unit="DEGREES">-122.257247</Longitude>
+      <Elevation unit="METERS">100.0</Elevation>
+      <Site>
+        <Name>BP3</Name>
+      </Site>
+      <CreationDate>2018-01-01T00:00:00</CreationDate>
+    </Station>
+    <Station code="AE38">
+      <GL_ns:local_location>
+        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
+      </GL_ns:local_location>
+      <Latitude unit="DEGREES">37.874505</Latitude>
+      <Longitude unit="DEGREES">-122.257247</Longitude>
+      <Elevation unit="METERS">100.0</Elevation>
+      <Site>
+        <Name>BP3</Name>
+      </Site>
+      <CreationDate>2018-01-01T00:00:00</CreationDate>
+    </Station>
+    <Station code="AE39">
+      <GL_ns:local_location>
+        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
+      </GL_ns:local_location>
+      <Latitude unit="DEGREES">37.874505</Latitude>
+      <Longitude unit="DEGREES">-122.257247</Longitude>
+      <Elevation unit="METERS">100.0</Elevation>
+      <Site>
+        <Name>BP3</Name>
+      </Site>
+      <CreationDate>2018-01-01T00:00:00</CreationDate>
+    </Station>
+    <Station code="AE40">
+      <GL_ns:local_location>
+        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
+      </GL_ns:local_location>
+      <Latitude unit="DEGREES">37.874505</Latitude>
+      <Longitude unit="DEGREES">-122.257247</Longitude>
+      <Elevation unit="METERS">100.0</Elevation>
+      <Site>
+        <Name>BP3</Name>
+      </Site>
+      <CreationDate>2018-01-01T00:00:00</CreationDate>
+    </Station>
+    <Station code="AE41">
+      <GL_ns:local_location>
+        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
+      </GL_ns:local_location>
+      <Latitude unit="DEGREES">37.874505</Latitude>
+      <Longitude unit="DEGREES">-122.257247</Longitude>
+      <Elevation unit="METERS">100.0</Elevation>
+      <Site>
+        <Name>BP3</Name>
+      </Site>
+      <CreationDate>2018-01-01T00:00:00</CreationDate>
+    </Station>
+    <Station code="AE42">
+      <GL_ns:local_location>
+        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
+      </GL_ns:local_location>
+      <Latitude unit="DEGREES">37.874505</Latitude>
+      <Longitude unit="DEGREES">-122.257247</Longitude>
+      <Elevation unit="METERS">100.0</Elevation>
+      <Site>
+        <Name>BP3</Name>
+      </Site>
+      <CreationDate>2018-01-01T00:00:00</CreationDate>
+    </Station>
+    <Station code="AE43">
+      <GL_ns:local_location>
+        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
+      </GL_ns:local_location>
+      <Latitude unit="DEGREES">37.874505</Latitude>
+      <Longitude unit="DEGREES">-122.257247</Longitude>
+      <Elevation unit="METERS">100.0</Elevation>
+      <Site>
+        <Name>BP3</Name>
+      </Site>
+      <CreationDate>2018-01-01T00:00:00</CreationDate>
+    </Station>
+  </Network>
+</FDSNStationXML>
