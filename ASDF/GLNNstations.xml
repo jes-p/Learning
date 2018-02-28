@@ -3,12 +3,12 @@
   <Source>J. Parker</Source>
   <Module>ObsPy 1.1.0</Module>
   <ModuleURI>https://www.obspy.org</ModuleURI>
-  <Created>2018-02-13T23:15:14.892280</Created>
+  <Created>2018-02-28T02:31:53.630138</Created>
   <Network code="L0">
     <Description>Glaser Lab Nano Network</Description>
     <Station code="AE01">
       <GL_ns:local_location>
-        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:x unit="CENTIMETERS">51.96586</GL_ns:x>
         <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
         <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
       </GL_ns:local_location>
@@ -22,8 +22,8 @@
     </Station>
     <Station code="AE02">
       <GL_ns:local_location>
-        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
-        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:x unit="CENTIMETERS">48.460660000000004</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">23.368</GL_ns:y>
         <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
       </GL_ns:local_location>
       <Latitude unit="DEGREES">37.874505</Latitude>
@@ -36,7 +36,7 @@
     </Station>
     <Station code="AE03">
       <GL_ns:local_location>
-        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:x unit="CENTIMETERS">48.460660000000004</GL_ns:x>
         <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
         <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
       </GL_ns:local_location>
@@ -50,8 +50,8 @@
     </Station>
     <Station code="AE04">
       <GL_ns:local_location>
-        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
-        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:x unit="CENTIMETERS">48.460660000000004</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">14.732</GL_ns:y>
         <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
       </GL_ns:local_location>
       <Latitude unit="DEGREES">37.874505</Latitude>
@@ -64,7 +64,7 @@
     </Station>
     <Station code="AE05">
       <GL_ns:local_location>
-        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:x unit="CENTIMETERS">44.95546</GL_ns:x>
         <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
         <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
       </GL_ns:local_location>
@@ -78,8 +78,8 @@
     </Station>
     <Station code="AE06">
       <GL_ns:local_location>
-        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
-        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:x unit="CENTIMETERS">42.418</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">22.098</GL_ns:y>
         <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
       </GL_ns:local_location>
       <Latitude unit="DEGREES">37.874505</Latitude>
@@ -92,8 +92,8 @@
     </Station>
     <Station code="AE07">
       <GL_ns:local_location>
-        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
-        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:x unit="CENTIMETERS">42.418</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">16.002</GL_ns:y>
         <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
       </GL_ns:local_location>
       <Latitude unit="DEGREES">37.874505</Latitude>
@@ -106,8 +106,8 @@
     </Station>
     <Station code="AE08">
       <GL_ns:local_location>
-        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
-        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:x unit="CENTIMETERS">41.447720000000004</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">33.0708</GL_ns:y>
         <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
       </GL_ns:local_location>
       <Latitude unit="DEGREES">37.874505</Latitude>
@@ -120,7 +120,7 @@
     </Station>
     <Station code="AE09">
       <GL_ns:local_location>
-        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:x unit="CENTIMETERS">41.447720000000004</GL_ns:x>
         <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
         <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
       </GL_ns:local_location>
@@ -134,8 +134,8 @@
     </Station>
     <Station code="AE10">
       <GL_ns:local_location>
-        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
-        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:x unit="CENTIMETERS">41.447720000000004</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">5.0292</GL_ns:y>
         <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
       </GL_ns:local_location>
       <Latitude unit="DEGREES">37.874505</Latitude>
@@ -148,8 +148,8 @@
     </Station>
     <Station code="AE11">
       <GL_ns:local_location>
-        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
-        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:x unit="CENTIMETERS">37.846000000000004</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">22.352000000000004</GL_ns:y>
         <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
       </GL_ns:local_location>
       <Latitude unit="DEGREES">37.874505</Latitude>
@@ -162,8 +162,8 @@
     </Station>
     <Station code="AE12">
       <GL_ns:local_location>
-        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
-        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:x unit="CENTIMETERS">37.846000000000004</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">15.748000000000001</GL_ns:y>
         <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
       </GL_ns:local_location>
       <Latitude unit="DEGREES">37.874505</Latitude>
@@ -176,8 +176,8 @@
     </Station>
     <Station code="AE13">
       <GL_ns:local_location>
-        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
-        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:x unit="CENTIMETERS">37.592000000000006</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">26.924</GL_ns:y>
         <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
       </GL_ns:local_location>
       <Latitude unit="DEGREES">37.874505</Latitude>
@@ -190,8 +190,8 @@
     </Station>
     <Station code="AE14">
       <GL_ns:local_location>
-        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
-        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:x unit="CENTIMETERS">37.592000000000006</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">11.176000000000002</GL_ns:y>
         <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
       </GL_ns:local_location>
       <Latitude unit="DEGREES">37.874505</Latitude>
@@ -204,8 +204,8 @@
     </Station>
     <Station code="AE15">
       <GL_ns:local_location>
-        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
-        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:x unit="CENTIMETERS">35.45332</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">23.368</GL_ns:y>
         <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
       </GL_ns:local_location>
       <Latitude unit="DEGREES">37.874505</Latitude>
@@ -218,8 +218,8 @@
     </Station>
     <Station code="AE16">
       <GL_ns:local_location>
-        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
-        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:x unit="CENTIMETERS">35.45332</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">14.732</GL_ns:y>
         <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
       </GL_ns:local_location>
       <Latitude unit="DEGREES">37.874505</Latitude>
@@ -232,7 +232,7 @@
     </Station>
     <Station code="AE17">
       <GL_ns:local_location>
-        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:x unit="CENTIMETERS">34.46272</GL_ns:x>
         <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
         <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
       </GL_ns:local_location>
@@ -246,8 +246,8 @@
     </Station>
     <Station code="AE18">
       <GL_ns:local_location>
-        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
-        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:x unit="CENTIMETERS">34.29</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">26.162000000000003</GL_ns:y>
         <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
       </GL_ns:local_location>
       <Latitude unit="DEGREES">37.874505</Latitude>
@@ -260,8 +260,8 @@
     </Station>
     <Station code="AE19">
       <GL_ns:local_location>
-        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
-        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:x unit="CENTIMETERS">34.29</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">11.938</GL_ns:y>
         <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
       </GL_ns:local_location>
       <Latitude unit="DEGREES">37.874505</Latitude>
@@ -274,8 +274,8 @@
     </Station>
     <Station code="AE20">
       <GL_ns:local_location>
-        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
-        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:x unit="CENTIMETERS">30.957520000000002</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">29.565600000000003</GL_ns:y>
         <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
       </GL_ns:local_location>
       <Latitude unit="DEGREES">37.874505</Latitude>
@@ -288,8 +288,8 @@
     </Station>
     <Station code="AE21">
       <GL_ns:local_location>
-        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
-        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:x unit="CENTIMETERS">30.957520000000002</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">22.555200000000003</GL_ns:y>
         <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
       </GL_ns:local_location>
       <Latitude unit="DEGREES">37.874505</Latitude>
@@ -302,7 +302,7 @@
     </Station>
     <Station code="AE22">
       <GL_ns:local_location>
-        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:x unit="CENTIMETERS">30.957520000000002</GL_ns:x>
         <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
         <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
       </GL_ns:local_location>
@@ -316,8 +316,8 @@
     </Station>
     <Station code="AE23">
       <GL_ns:local_location>
-        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
-        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:x unit="CENTIMETERS">30.957520000000002</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">15.5448</GL_ns:y>
         <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
       </GL_ns:local_location>
       <Latitude unit="DEGREES">37.874505</Latitude>
@@ -330,8 +330,8 @@
     </Station>
     <Station code="AE24">
       <GL_ns:local_location>
-        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
-        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:x unit="CENTIMETERS">30.957520000000002</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">8.5344</GL_ns:y>
         <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
       </GL_ns:local_location>
       <Latitude unit="DEGREES">37.874505</Latitude>
@@ -344,8 +344,8 @@
     </Station>
     <Station code="AE25">
       <GL_ns:local_location>
-        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
-        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:x unit="CENTIMETERS">27.686</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">26.162000000000003</GL_ns:y>
         <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
       </GL_ns:local_location>
       <Latitude unit="DEGREES">37.874505</Latitude>
@@ -358,8 +358,8 @@
     </Station>
     <Station code="AE26">
       <GL_ns:local_location>
-        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
-        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:x unit="CENTIMETERS">27.686</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">11.938</GL_ns:y>
         <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
       </GL_ns:local_location>
       <Latitude unit="DEGREES">37.874505</Latitude>
@@ -372,7 +372,7 @@
     </Station>
     <Station code="AE27">
       <GL_ns:local_location>
-        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:x unit="CENTIMETERS">27.45232</GL_ns:x>
         <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
         <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
       </GL_ns:local_location>
@@ -386,8 +386,8 @@
     </Station>
     <Station code="AE28">
       <GL_ns:local_location>
-        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
-        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:x unit="CENTIMETERS">26.46172</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">23.368</GL_ns:y>
         <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
       </GL_ns:local_location>
       <Latitude unit="DEGREES">37.874505</Latitude>
@@ -400,8 +400,8 @@
     </Station>
     <Station code="AE29">
       <GL_ns:local_location>
-        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
-        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:x unit="CENTIMETERS">26.46172</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">14.732</GL_ns:y>
         <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
       </GL_ns:local_location>
       <Latitude unit="DEGREES">37.874505</Latitude>
@@ -414,8 +414,8 @@
     </Station>
     <Station code="AE30">
       <GL_ns:local_location>
-        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
-        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:x unit="CENTIMETERS">24.384</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">26.924</GL_ns:y>
         <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
       </GL_ns:local_location>
       <Latitude unit="DEGREES">37.874505</Latitude>
@@ -428,8 +428,8 @@
     </Station>
     <Station code="AE31">
       <GL_ns:local_location>
-        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
-        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:x unit="CENTIMETERS">24.384</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">11.176000000000002</GL_ns:y>
         <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
       </GL_ns:local_location>
       <Latitude unit="DEGREES">37.874505</Latitude>
@@ -442,8 +442,8 @@
     </Station>
     <Station code="AE32">
       <GL_ns:local_location>
-        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
-        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:x unit="CENTIMETERS">23.876</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">22.352000000000004</GL_ns:y>
         <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
       </GL_ns:local_location>
       <Latitude unit="DEGREES">37.874505</Latitude>
@@ -456,8 +456,8 @@
     </Station>
     <Station code="AE33">
       <GL_ns:local_location>
-        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
-        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:x unit="CENTIMETERS">23.876</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">15.748000000000001</GL_ns:y>
         <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
       </GL_ns:local_location>
       <Latitude unit="DEGREES">37.874505</Latitude>
@@ -470,8 +470,8 @@
     </Station>
     <Station code="AE34">
       <GL_ns:local_location>
-        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
-        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:x unit="CENTIMETERS">20.44192</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">33.0708</GL_ns:y>
         <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
       </GL_ns:local_location>
       <Latitude unit="DEGREES">37.874505</Latitude>
@@ -484,7 +484,7 @@
     </Station>
     <Station code="AE35">
       <GL_ns:local_location>
-        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:x unit="CENTIMETERS">20.44192</GL_ns:x>
         <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
         <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
       </GL_ns:local_location>
@@ -498,8 +498,8 @@
     </Station>
     <Station code="AE36">
       <GL_ns:local_location>
-        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
-        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:x unit="CENTIMETERS">20.44192</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">5.0292</GL_ns:y>
         <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
       </GL_ns:local_location>
       <Latitude unit="DEGREES">37.874505</Latitude>
@@ -512,8 +512,8 @@
     </Station>
     <Station code="AE37">
       <GL_ns:local_location>
-        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
-        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:x unit="CENTIMETERS">19.558</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">22.352000000000004</GL_ns:y>
         <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
       </GL_ns:local_location>
       <Latitude unit="DEGREES">37.874505</Latitude>
@@ -526,8 +526,8 @@
     </Station>
     <Station code="AE38">
       <GL_ns:local_location>
-        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
-        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:x unit="CENTIMETERS">19.558</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">16.002</GL_ns:y>
         <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
       </GL_ns:local_location>
       <Latitude unit="DEGREES">37.874505</Latitude>
@@ -540,7 +540,7 @@
     </Station>
     <Station code="AE39">
       <GL_ns:local_location>
-        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:x unit="CENTIMETERS">16.93672</GL_ns:x>
         <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
         <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
       </GL_ns:local_location>
@@ -554,8 +554,8 @@
     </Station>
     <Station code="AE40">
       <GL_ns:local_location>
-        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
-        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:x unit="CENTIMETERS">13.43152</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">23.368</GL_ns:y>
         <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
       </GL_ns:local_location>
       <Latitude unit="DEGREES">37.874505</Latitude>
@@ -568,7 +568,7 @@
     </Station>
     <Station code="AE41">
       <GL_ns:local_location>
-        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
+        <GL_ns:x unit="CENTIMETERS">13.43152</GL_ns:x>
         <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
         <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
       </GL_ns:local_location>
@@ -582,8 +582,8 @@
     </Station>
     <Station code="AE42">
       <GL_ns:local_location>
-        <GL_ns:x unit="CENTIMETERS">9.9568</GL_ns:x>
-        <GL_ns:y unit="CENTIMETERS">19.05</GL_ns:y>
+        <GL_ns:x unit="CENTIMETERS">13.43152</GL_ns:x>
+        <GL_ns:y unit="CENTIMETERS">14.732</GL_ns:y>
         <GL_ns:z unit="CENTIMETERS">0</GL_ns:z>
       </GL_ns:local_location>
       <Latitude unit="DEGREES">37.874505</Latitude>
